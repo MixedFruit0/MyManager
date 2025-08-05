@@ -1,5 +1,12 @@
+*.DotSettings.user
+.idea/
+.DS_Store
 bin/
 obj/
-.DS_Store
-.idea/
-*.DotSettings.user
+Data/config.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+/Users/*/.nuget/
+
